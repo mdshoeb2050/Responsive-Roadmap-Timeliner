@@ -1,0 +1,49 @@
+#Introduction to Programming
+(Basics of Programming)
+
+FLOWCHARTS
+Introduction to flowcharts, Decision making using flowcharts, Loops, Example problems
+
+VARIABLES AND DATA TYPES
+First program, Variables and data types, Taking input, How data is stored in memory, Arithmetic Operators
+
+CONDITIONAL STATEMENTS
+Introduction to If else, Relational and logical operators, Nested conditionals
+
+
+
+# Loops and Functions
+
+WHILE LOOPS
+While loops, Flow of execution of statements in while loop, Example problems using while loop
+
+PATTERNS
+Introduction to patterns, Basic Patterns, Square Patterns, Triangular Patterns, Character Patterns, Reverse Triangle, Inverted patterns, Isosceles triangles
+
+FOR LOOPS
+For loops, Break and Continue, increment - decrement operators
+
+FUNCTIONS
+Introduction to functions, Working of function calling, Variables and its scope, Pass by value
+
+
+
+#Arrays
+
+INTRODUCTION TO ARRAYS 
+Introduction to arrays/lists, How arrays/lists are stored in memory, Passing arrays/lists to functions
+
+SEARCHING AND SORTING
+Understanding Binary Search, Selection sort, Bubble sort, Insertion sort, Merging two sorted arrays
+
+
+#Strings and 2D ARRAYS
+
+STRINGS
+Introduction to strings, storage of strings and theirinbuilt functions
+
+2D ARRAYS
+2D ARRAY, Storage of 2D ARRAY, Example problems using 2D Array
+
+
+
